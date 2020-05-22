@@ -1,6 +1,6 @@
 # riboseq_pipeline
 code for running riboseq analysis starting with fastq
-# Steps
+### steps
 1. Trim small RNA adapters / primers and filter by read length (trimmomatic)
 2. remove rRNA sequences (sortmeRNA)
 3. map to a genome (STAR)
